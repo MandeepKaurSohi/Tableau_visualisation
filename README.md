@@ -48,6 +48,10 @@ Top 10 Starting Stations.
 Insights:
 Ridership peaks in September, driven by casual users during favorable weather.
 Members show consistent usage patterns across all months.
+
+![Monthly Trends](https://github.com/MandeepKaurSohi/Tableau_visualisation/blob/main/Dashboards/Monthly_trends.png)
+
+
 ## Dashboard 2: Station and User Insights
 Visualizations:
 Station Popularity Map.
@@ -57,6 +61,10 @@ Insights:
 Midtown Manhattan and Central Park stations are the most popular.
 Stations in northern Manhattan show the least activity, indicating underutilization.
 Peak hours occur during weekday mornings and evenings, aligning with commuter behavior.
+
+![Station and User Insights](https://github.com/MandeepKaurSohi/Tableau_visualisation/blob/main/Dashboards/Station_User_Insights.png)
+
+
 ## Dashboard 3: Temporal and Spatial Trends
 Visualizations:
 Day vs. Night Station Usage (Map).
@@ -65,6 +73,10 @@ Peak Hours for Day/Night (Bar Graph).
 Insights:
 Daytime trips dominate across most stations, with nighttime trips concentrated in entertainment districts.
 Usage patterns shift seasonally, with activity declining in November.
+
+![Temporal and Spatial Trends](https://github.com/MandeepKaurSohi/Tableau_visualisation/blob/main/Dashboards/Temporal_Spatial_trends.png)
+
+
 # Recommendations
 Expand Capacity at Popular Stations:
 Add more bikes and docking spaces in high-demand areas (e.g., Midtown Manhattan).
